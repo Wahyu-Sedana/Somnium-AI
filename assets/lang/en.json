@@ -1,0 +1,26 @@
+{
+    "select_language": "Select Your Language",
+    "next": "Next",
+    "home_title": "Famous Psychologists",
+    "back": "Back",
+    "freud": "Sigmund Freud",
+    "freud_quote": "Dreams are the royal road to the unconscious.",
+    "erikson": "Erik Erikson",
+    "erikson_quote": "The more you know yourself, the more patience you have for what you see in others.",
+    "jung": "Carl Gustav Jung",
+    "jung_quote": "Dreams are the guiding words of the soul.",
+    "form_title": "Describe Your Dream",
+    "form_hint": "Enter your text here...",
+    "form_error": "Text cannot be empty!",
+    "submit": "Submit",
+    "your_dream_interpretation": "Your Dream Interpretation",
+    "no_interpretation": "No interpretation available.",
+    "no_interpretation_to_share": "No interpretation to share.",
+    "no_interpretation_to_save": "No interpretation to save.",
+    "pdf_saved_successfully": "PDF saved successfully!",
+    "exit_title": "Exit App",
+    "exit_message": "Are you sure you want to exit the app?",
+    "cancel": "Cancel",
+    "exit": "Exit"
+}
+  

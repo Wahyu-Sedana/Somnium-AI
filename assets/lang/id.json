@@ -1,0 +1,26 @@
+{
+    "select_language": "Pilih Bahasa Anda",
+    "next": "Lanjut",
+    "home_title": "Psikolog Terkenal",
+    "back": "Kembali",
+    "freud": "Sigmund Freud",
+    "freud_quote": "Mimpi adalah jalan kerajaan menuju alam bawah sadar.",
+    "erikson": "Erik Erikson",
+    "erikson_quote": "Semakin kamu mengenal dirimu, semakin banyak kesabaran yang kamu miliki terhadap orang lain.",
+    "jung": "Carl Gustav Jung",
+    "jung_quote": "Mimpi adalah kata-kata penuntun jiwa.",
+    "form_title": "Deskripsikan Mimpimu",
+    "form_hint": "Masukkan teks di sini...",
+    "form_error": "Teks tidak boleh kosong!",
+    "submit": "Kirim",
+    "your_dream_interpretation": "Interpretasi Mimpimu",
+    "no_interpretation": "Tidak ada interpretasi yang tersedia.",
+    "no_interpretation_to_share": "Tidak ada interpretasi untuk dibagikan.",
+    "no_interpretation_to_save": "Tidak ada interpretasi untuk disimpan.",
+    "pdf_saved_successfully": "PDF berhasil disimpan!",
+    "exit_title": "Keluar Aplikasi",
+    "exit_message": "Apakah Anda yakin ingin keluar dari aplikasi?",
+    "cancel": "Batal",
+    "exit": "Keluar"
+}
+  

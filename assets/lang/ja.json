@@ -1,0 +1,26 @@
+{
+    "select_language": "言語を選択してください",
+    "next": "次へ",
+    "home_title": "有名な心理学者",
+    "back": "戻る",
+    "freud": "ジークムント・フロイト",
+    "freud_quote": "夢は無意識への王道である。",
+    "erikson": "エリク・エリクソン",
+    "erikson_quote": "自分自身を知るほど、他人に対して寛容になれる。",
+    "jung": "カール・グスタフ・ユング",
+    "jung_quote": "夢は魂の導きの言葉である。",
+    "form_title": "あなたの夢を説明してください",
+    "form_hint": "ここにテキストを入力してください...",
+    "form_error": "テキストを空にすることはできません！",
+    "submit": "送信",
+    "your_dream_interpretation": "あなたの夢の解釈",
+    "no_interpretation": "利用可能な解釈はありません。",
+    "no_interpretation_to_share": "共有できる解釈がありません。",
+    "no_interpretation_to_save": "保存できる解釈がありません。",
+    "pdf_saved_successfully": "PDFが正常に保存されました！",
+    "exit_title": "アプリを終了",
+    "exit_message": "アプリを終了してもよろしいですか？",
+    "cancel": "キャンセル",
+    "exit": "終了"
+}
+  
